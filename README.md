@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +5,7 @@
     <title>My First HTML Page</title>
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <p>This is a simple HTML page.</p>
+    <h1>Huh dude </h1>
+    <p>What the fuck's wrong with u.</p>
 </body>
 </html>
