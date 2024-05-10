@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -6,7 +6,7 @@
   <title>Personal Portfolio</title>
 </head>
 <body>
-  <h1>I'M SUMAYYAH</h1>
+  <h1>HELLO!</h1>
   <p>Hey. I'm <b><span style="color: purple;">Sumayyah</span> </b>and I'm 15 years old right now, though in a few months I'll be turning 16 on <u>1st October</u> 2024. I'm currently studying in 11th standard and I have chosen the commerce stream.</p>
   <p>You can contact me on my social media account on Instagram.</p>
   <nav>
@@ -18,14 +18,8 @@
   <h2>Skills</h2>
   <ul>
     <li>
-      <span class="skill-name">HTML</span>
-      <span class="skill-level">Proficient</span>
+      skills hi nhi aati bhencho kuch🥲
     </li>
-    <li>
-      <span class="skill-name">CSS</span>
-      <span class="skill-level">Intermediate</span>
-    </li>
-    <!-- Add more skills here -->
   </ul>
 </section>
 <style>
@@ -41,14 +35,8 @@
   <h2>Interests</h2>
   <ul>
     <li>
-      <span class="interest">Photography</span>
-      <span class="level">Passionate</span>
+      Ldko me interest h...👉👈
     </li>
-    <li>
-      <span class="interest">Reading</span>
-      <span class="level">Enthusiastic</span>
-    </li>
-    <!-- Add more interests here -->
   </ul>
 </section>
 <style>
